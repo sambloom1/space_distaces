@@ -2,7 +2,6 @@
 
 
 An attempt to build a relative distance tool. \
-e.g
 
 \
 Inputs: \
@@ -16,7 +15,7 @@ Earth =0.0001mm diameter
 Milky way = 3000 km
 
 \
-Also include distances
+Also include distances.
 e.g \
 Milky Way diameter = 200,000 light years \
 Andromeda diameter = 300,000 light years \
