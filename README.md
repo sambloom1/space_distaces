@@ -1,9 +1,9 @@
 # space_distances
 
 
-An attempt to build a relative distance tool. \
+An attempt to build a relative distance tool. 
 
-\
+
 Inputs: \
 Earth diameter= 13,000km \
 Milky way diameter = 200,000 lightyears
@@ -11,7 +11,7 @@ Milky way diameter = 200,000 lightyears
 \
 Outputs: \
 This is relative to 
-Earth =0.0001mm diameter
+Earth =0.0001mm diameter \
 Milky way = 3000 km
 
 \
