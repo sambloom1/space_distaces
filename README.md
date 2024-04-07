@@ -1,4 +1,11 @@
-# space_distances
+
+Always been interested in Space. This is a repostiory looking at some basic exploartion and some modelling potentially using some API's
+
+
+
+
+
+# space_distances tool
 
 
 An attempt to build a relative distance tool. 
@@ -26,6 +33,3 @@ Output: \
 Milky way diameter = 10m \
 Andromed diameter = 15m \
 Distance between them = 110 meters
-
-
-
